@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+}
+
+button {
+    cursor: pointer;
+}
+
+table th {
+    text-align: center;
+    vertical-align: middle !important;
+}
+
+table td:first-child, table td:last-child {
+    text-align: center;
+}
+
+.knights {
+    text-align: center;
+}
+
+.knights span {
+    display: block;
+}
+
+.knights h5 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.knights img {
+    border: 1px solid darkgray;
+}
+
+.show {
+    display: block !important;
+}
+
+.hide {
+    display: none !important;
+}
